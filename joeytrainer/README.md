@@ -1,4 +1,4 @@
-## Running Lafand-MT experiments FOR WOLOF [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LgnCIHFHXiSBloW4roxjn7lQEQrDCeyG?usp=sharing)
+## Running Lafand-MT experiments FOR BBJ
 
 1. `bash install_spm.sh` to install the Sentencepiece model if you don't have it.
 
